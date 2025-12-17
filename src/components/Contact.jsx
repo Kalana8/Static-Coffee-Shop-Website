@@ -9,10 +9,22 @@ const Contact = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12 md:mb-16">
-          <h2 className="text-4xl sm:text-5xl md:text-6xl font-display font-bold text-espresso mb-4">
+          <span className="inline-block text-sm sm:text-base text-gold font-semibold tracking-widest uppercase mb-4">
+            Reach Out
+          </span>
+          <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-display font-bold text-espresso mb-6">
             Contact & Order
           </h2>
-          <div className="w-24 h-1 bg-gold mx-auto"></div>
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <div className="w-12 h-0.5 bg-gradient-to-r from-transparent to-gold"></div>
+            <div className="w-2 h-2 bg-gold rounded-full"></div>
+            <div className="w-24 h-0.5 bg-gold"></div>
+            <div className="w-2 h-2 bg-gold rounded-full"></div>
+            <div className="w-12 h-0.5 bg-gradient-to-l from-transparent to-gold"></div>
+          </div>
+          <p className="text-lg text-espresso/70 max-w-2xl mx-auto">
+            Visit us, reach out, or place an order directly via WhatsApp
+          </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 md:gap-12">
