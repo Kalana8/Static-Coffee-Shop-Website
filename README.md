@@ -138,8 +138,7 @@ All images currently use Unsplash placeholder URLs. Replace them with your own i
 
 ## 📹 Live Demo
 
-<!-- Add your live demo video link here -->
-[Live Demo Video Link - Coming Soon]
+(https://drive.google.com/file/d/1Qek6O7wIhtdkkA5esq8mkaFnHrYect41/view?usp=sharing)
 
 ## 📄 License
 
